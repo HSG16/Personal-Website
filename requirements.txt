@@ -2,3 +2,5 @@ streamlit
 streamlit_lottie
 requests
 pathlib
+css_file
+current-dir
