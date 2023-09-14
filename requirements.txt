@@ -1,5 +1,5 @@
 streamlit
-st_lottie
+streamlit_lottie
 requests
 PIL
 pathlib
