@@ -44,7 +44,7 @@ img_ext = Image.open("images/ext.png")
 # --- Introduction ---
 with st.container():
     st.subheader("Hi, I'm Harrison Getchell! :wave:")
-    st.title("A Computer Science Major :computer:  and Business Minor :briefcase:  Looking for Internship Opportunities for The Summer of 2024")
+    st.title("An Accounting & Finance Double Major & Computer Science Minor Looking for Internship Opportunities for The Summer of 2024")
     st.write(":email:", EMAIL)
 # --- Social Media ---#
     st.write("#")
@@ -62,13 +62,13 @@ with st.container():
         st.write('##')
         st.write(
             """
-            I am a second-year student at the University of Pittsburgh pursuing a major in computer science and a minor in business.
-            Ever since I was a child, I've had a passion for learning how things work and the inner workings of large systems.
-            This is where I discovered my passion for coding. As I grew older, I began to discover my love for not only coding
+            I am a second-year student at the University of Pittsburgh pursuing a double major in accounting & finance with a
+            minor in Computer Science. Ever since I was young, I've always had a love for how the economy works and how it stays afloat.
+            This is where I discovered my love for accounting & finance. As I grew older, I began to discover my love for not only coding
             but the stock market and investing as well. This is where I learned of investment banking and managing money. Being 
-            interested in both coding and investing made me decide to pursue a major in computer science and minor in business. 
+            interested in both coding and investing made me decide to pursue a double major in accounting & finance with a minor in CS. 
             I believe learning and mastering both degrees will allow me to pursue a career in a field that allows me to showcase
-            my skills in the world of computer science and business in the landscape of finance and technology driven industries.
+            my skills in the world of accounting, finance, and CS in the landscape of finance and technology driven industries.
             I am seeking any internship opportunities for the summer of 2024 so feel free to contact me via any of the provided 
             links above! Thank you so much for taking the time to read and learn more about me!
 
@@ -142,6 +142,7 @@ with st.container():
             """
             - Delta Sigma Phi Fraternity ([:link: Delta Sigma Phi Website](https://deltasig.org/))
             - Computer Science Club ([:link: Computer Science Club Webiste](https://csclubatpitt.org/))
+            - Panther Equity ([:link: Panther Equity Website](https://pantherequity.org/))
             - Undergraduate Finance Club ([:link: Undergraduate Finance Club LinkedIn](https://www.linkedin.com/company/undergraduate-finance-club-at-pitt/))
 
             """
